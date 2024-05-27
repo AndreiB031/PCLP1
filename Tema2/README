@@ -1,0 +1,7 @@
+Task1: Ne folosim de dimensiunea tipurilor de date char, short int si int pentru a parcurge vectorul *int si afisam datele.
+Task2: Folosim ideea de la task 1 pentru a afla datele avioanelor si afisam avioanele in matrice conform acestora.
+Task3: Parcurgem fiecare avion cu functia qsort si ne folosim de functia comparator pentru a ordona avioanele dupa crescator dupa tip,
+    descrescator dupa aeroport, respectiv dupa viteza.
+Task4: initializam matricea cu 0 si 1 pentru locatiile obstacolelor, iar pentru fiecare tip de avion parcurgem matricea cu acesta pana acesta iese total din matrice,
+    iar daca nu a intampinat niciun obstacol acesta este numarat.
+Task5: Ne refolosim in mare parte de Task4, eliminand while-urile si modificand coordonatele avionului conform vitezei lui.

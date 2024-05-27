@@ -1,0 +1,8 @@
+
+Run cpplint
+
+./check.sh: line 84: cpplint: command not found
+
+Run clang-tidy
+
+./check.sh: line 93: clang-tidy: command not found
