@@ -1,0 +1,11 @@
+Task 1: Se parcurg in ordine toate elementele vectorului si operatiile si
+se executa operatiile in rezultat, in ordinea citirii lor.
+
+Task 2: Se parcurg initial doar operatiile de inmultire si impartire si apoi
+se muta toate elemetele in vectorul de valori si operatii la stanga
+pentru a elimina numerele si operatiile folosite, apoi se repeta pentru restul operatiilor.
+
+Task 2: Se parcurg initial doar operatiile de inmultire si impartire si apoi
+se muta toate elemetele in vectorul de valori si operatii la stanga
+pentru a elimina numerele si operatiile folosite, apoi se repeta pentru operatia  '#',
+apoi pentru operatiile de adunare si scadere.
